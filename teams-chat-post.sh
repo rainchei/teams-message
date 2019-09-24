@@ -4,7 +4,7 @@ TITLE='This Is A Title'
 COLOR='#90B0FF'
 
 # formating
-MESSAGE_P1="$(echo "<strong> This is a message </strong>")"
+MESSAGE_P1="$(echo "<strong> \` This is a message \` </strong>")"
 
 MESSAGE="$MESSAGE_P1 <br>"
 JSON="{\"title\": \"${TITLE}\", \"themeColor\": \"${COLOR}\", \"text\": \"${MESSAGE}\" }"
