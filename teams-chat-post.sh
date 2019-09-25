@@ -1,5 +1,5 @@
 # env
-WEBHOOK_URL='https://outlook.office.com/webhook/7358ebd5-8e9e-4465-9f99-27d96fb2df38@afb5d3cf-2693-47e7-ade9-696a806ba95a/IncomingWebhook/405f6771329f427fb2418785c7b71440/b52bbfca-8b6f-4012-8ad9-dadf094c0961'
+WEBHOOK_URL='<teams-webhook-url>'
 TITLE='This Is A Title'
 COLOR='#000000'
 
